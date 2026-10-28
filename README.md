@@ -6,7 +6,7 @@ Unreal Engine 5.6과 Blueprint를 사용해 교대 입력, 가속·감속 곡선
 
 ## 스크린샷
 
-![MashRunner 실행 화면](docs/images/gameplay.jpg)
+추가예정
 
 *로컬 프로젝트 실행 화면*
 
